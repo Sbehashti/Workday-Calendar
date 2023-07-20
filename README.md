@@ -34,6 +34,7 @@ Note: Deployed Page Image was taken outside of the 9am-5pm hours
 ![sbehashti github io_Workday-Calendar_](https://github.com/Sbehashti/Workday-Calendar/assets/135624229/8b154827-45ff-4bef-bd5a-a9698f515a01)
 
 ## Credits 
-
-Code Refactored by Sier Behashti 
+- Starter Code provided by University of California, Davis Coding/Web Development Bootcamp 
+- Code Refactored by Sier Behashti https://github.com/Sbehashti
+- Link/Framework elements provided b Bootstrap, JQuery, Day.JS; Styles provided by FontAwesome, and Google Fonts
 
