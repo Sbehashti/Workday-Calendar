@@ -26,7 +26,14 @@ I was tasked with refactoring and adding code in order to create a Workday Sched
 - When the page is refreshed, the saved events remain in the time block text boxes.
 
 ## Deployed Page URL
+https://sbehashti.github.io/Workday-Calendar/ 
 
 ## Deployed Page
+Note: Deployed Page Image was taken outside of the 9am-5pm hours
+
+![sbehashti github io_Workday-Calendar_](https://github.com/Sbehashti/Workday-Calendar/assets/135624229/8b154827-45ff-4bef-bd5a-a9698f515a01)
 
 ## Credits 
+
+Code Refactored by Sier Behashti 
+
