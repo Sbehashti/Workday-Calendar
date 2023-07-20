@@ -19,6 +19,11 @@ I was tasked with refactoring and adding code in order to create a Workday Sched
 - WHEN I refresh the page, THEN the saved events persist.
 
 ## Work Completed
+- When the applicaton/planner is opened in the browser, the current date is listed in the header.
+- Time blocks between the hours of 9am and 5pm are displayed on the page below the header and date, and the blocks are color coded to mark past as gray, present as pink, and future as green.
+- When a time block is clicked, the user/employee can enter an event in the text box.
+- When the save button for each time block, which appears in blue with a white save/floppy-disk icon, is clicked, the event in the text box is saved to local storage.
+- When the page is refreshed, the saved events remain in the time block text boxes.
 
 ## Deployed Page URL
 
